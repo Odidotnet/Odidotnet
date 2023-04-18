@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/odidotnet?s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Odidotnet&style=flat-square&color=blue" alt=""/>
 </div>
 
